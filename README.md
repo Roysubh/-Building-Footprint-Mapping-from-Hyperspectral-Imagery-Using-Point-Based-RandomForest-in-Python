@@ -17,7 +17,7 @@
 | **Classification Model** | Random Forest (Scikit-learn)                                                              |
 | **Programming Language** | Python                                                                                    |
 | **Output Formats**       | GeoTIFF (classified map), Shapefile (vectorized footprints), Pickle (trained model)       |
-| **Validation Metrics**   | R² Score, RMSE, Confusion Matrix, Accuracy, Precision, Recall, F1-Score, IoU (optional)   |
+| **Validation Metrics**   | R² Score, RMSE, Confusion Matrix, Accuracy|
 
 ⚙️ Dependencies: Install required packages via pip or conda: pip install geopandas rasterio scikit-learn numpy matplotlib shapely joblib
 | **Library**           | **Purpose**                                                                |
